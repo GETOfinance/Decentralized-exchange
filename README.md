@@ -1,4 +1,4 @@
-##Decentralized exchange (DEX)
+Decentralized exchange (DEX)
 
 Decentralized exchange (DEX) protocol that facilitates automated and permissionless trading of various cryptocurrencies. It operates as a set of smart contracts, allowing users to trade tokens directly from their wallets without the need for a centralized intermediary.
 
@@ -23,7 +23,7 @@ DEX Flow Chat
 ![DEX Flow Chat](https://cdn.dorahacks.io/static/files/18c2a92dafeeea47620722945cbb6d50.png)
 
 
-##DEX Smart Contracts deployed on puppynet
+DEX Smart Contracts deployed on puppynet
 
 WBONE deployed to: 0xf879432b14B4635fC1aDEfa0C0555B9db60936C6
 https://puppyscan.shib.io/address/0xf879432b14B4635fC1aDEfa0C0555B9db60936C6
