@@ -21,3 +21,32 @@ Staking: Earning additional rewards for staking LP tokens. These rewards come in
 DEX Flow Chat
 
 ![DEX Flow Chat](https://cdn.dorahacks.io/static/files/18c2a92dafeeea47620722945cbb6d50.png)
+
+
+DEX Smart Contracts deployed on puppynet
+
+WBONE deployed to: 0xf879432b14B4635fC1aDEfa0C0555B9db60936C6
+https://puppyscan.shib.io/address/0xf879432b14B4635fC1aDEfa0C0555B9db60936C6
+
+Dex Factory deployed to: 0x930C594144D4b20471FCe94b2ba69336492Fd4e3
+https://puppyscan.shib.io/address/0x930C594144D4b20471FCe94b2ba69336492Fd4e3
+
+Dex Router deployed to:  0x1134787CAbb3B078AFaa28c4dfA2cbC236b8C6A9
+https://puppyscan.shib.io/address/0x1134787CAbb3B078AFaa28c4dfA2cbC236b8C6A9
+
+Multisig deployed to: 0x5CFa6EbCb141075F478b3B8139719124D15a7eF8
+https://puppyscan.shib.io/address/0x5CFa6EbCb141075F478b3B8139719124D15a7eF8
+
+MultiCall deployed to: 0x22b94b68AFFA94677262f1D80636FaAf8e09aCC9
+https://puppyscan.shib.io/address/0x22b94b68AFFA94677262f1D80636FaAf8e09aCC9
+
+Dex Token deployed to: 0x9d7B785FbFdc6221c6766591c2C440Cd2B003688
+https://puppyscan.shib.io/address/0x9d7B785FbFdc6221c6766591c2C440Cd2B003688
+
+Farming deployed to: 0x3A9EAD99beDf6CA8958fAd51c95a7191F66ba07d
+https://puppyscan.shib.io/address/0x3A9EAD99beDf6CA8958fAd51c95a7191F66ba07d
+
+Staking Factory deployed to: 0xE0e630B538919ED56aCeCE6Db1A32236B5847d80
+https://puppyscan.shib.io/address/0xE0e630B538919ED56aCeCE6Db1A32236B5847d80
+
+
